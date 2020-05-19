@@ -1,0 +1,9 @@
+{
+  "name": "maringa-css",
+  "version": "1.0.0",
+  "description": "Site com um desenho de Maringá em CSS",
+  "main": "index.js",
+  "repository": "https://github.com/wildeee/maringa-css",
+  "author": "Wilde Rossi",
+  "license": "MIT"
+}
